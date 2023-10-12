@@ -1,0 +1,1 @@
+mkdir -p public/{css/{header,main,footer},img,js} && touch public/index.html public/css/header/style.css public/css/main/style.css public/css/footer/style.css public/img/img{1..2} public/js/main.js
